@@ -1,0 +1,33 @@
+        .bg-orange {
+            background-color: #fd7e14;
+            color:#fff4ed;
+        }
+        .btn.bg-orange:hover{
+            background-color: #ffdec9;
+            border-color: #ced4da;
+        }
+        .bg-outline-orange{
+            border-color: #fd7e14;
+        }
+        .btn.bg-outline-orange:hover{
+             background-color: #ffdec9;
+            border-color: #ced4da;
+        }
+        .btn-outline-orange{
+            border-color: #fd7e14;
+        }
+        .btn.btn-outline-orange:hover{
+             background-color: #ffdec9;
+            border-color: #ced4da;
+        }
+        .btn.btn-no-border-orange:hover{
+            background-color: #ffdec9;
+            border-color: #ffdec9;
+        }
+
+.bg-orange-shadow{
+    background-color: #9e3d00;
+}
+nav.text-white a{
+    color:#e3c2ac;
+}
